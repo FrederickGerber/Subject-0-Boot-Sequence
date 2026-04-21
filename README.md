@@ -2,7 +2,7 @@
 
 **STATUS: OFFLINE / CORRUPTED**
 
-If anyone finds this... I didn't have enough time. The Head Doctor realized what I was doing and initiated a server-wide lockdown. I tried to write an override script for Subject Zero's memory wipe, but they cut my access.
+If anyone finds this... I didn't have enough time. Dr. Hristovski realized what I was doing and initiated a server-wide lockdown. I tried to write an override script for Subject Zero's memory wipe, but they cut my access.
 
 I am locked out. They wiped my main hard drive. 
 
